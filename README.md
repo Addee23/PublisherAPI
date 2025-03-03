@@ -1,1 +1,1 @@
-Har lagt till BookEndpoints och Author Endpoints
+Har lagt till BookEndpoints och CoverEndpoints
