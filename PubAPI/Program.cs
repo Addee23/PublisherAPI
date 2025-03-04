@@ -53,6 +53,8 @@ app.MapBookEndpoints();
 
 app.MapCoverEndpoints();
 
+app.MapArtistEndpoints();
+
 
 app.Run();
 
